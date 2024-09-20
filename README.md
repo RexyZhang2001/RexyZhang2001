@@ -2,8 +2,8 @@
 
 I am Yichen Zhang, you can call me Rex, currently a master student in CMU with CS background. I am a tech enthusiast and lways open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/yichenzhang0309/)
-[![Mail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yichenz4@cs.cmu.edu)](mailto:yichenz4@cs.cmu.edu)
+[![Linkedin Badge](https://img.shields.io/badge/-Yichen Zhang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/yichenzhang0309/)
+[![Mail Badge](https://img.shields.io/badge/-yichenz4@cs.cmu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yichenz4@cs.cmu.edu)](mailto:yichenz4@cs.cmu.edu)
 
 ## ⚡ Technologies
 
