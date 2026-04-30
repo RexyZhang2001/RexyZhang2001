@@ -3,7 +3,7 @@
 I am Rex, I am a tech enthusiast and always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-YichenZhang?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/yichenzhang0309/)
-[![Mail Badge](https://img.shields.io/badge/-yichenz4@cs.cmu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yichenz4@cs.cmu.edu)](mailto:yichenz4@cs.cmu.edu)
+[![Mail Badge](https://img.shields.io/badge/-zhangyichen200103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhangyichen200103@gmail.com)](mailto:zhangyichen200103@gmail.com)
 
 ## ⚡ Technologies
 
